@@ -1,0 +1,13 @@
+body{color: rgb(62, 214, 57);
+background-image: url(https://files.sunoresearch.com.br/p/uploads/2019/01/out-of-the-money-1024x683.jpg);
+-webkit-text-stroke-width: 2px;
+-webkit-text-stroke-color: rgb(0, 0, 0);
+font-size: 350%;}
+h1{color: rgb(62, 214, 57);
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: rgb(0, 0, 0);
+font-size: 250%;}
+button{color: rgb(62, 214, 57);
+     -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+font-size: xx-large;}
